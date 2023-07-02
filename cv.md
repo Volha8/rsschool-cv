@@ -1,6 +1,6 @@
 ### **Volha Misuna**
 
-![photo](\rsschool-cv\Photo.png)
+![photo](Photo.png)
 
 **Contacts:**
 
